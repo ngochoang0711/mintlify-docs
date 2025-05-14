@@ -31,10 +31,8 @@
           {
             "group": "Our Offerings",
             "pages": [
-              "services/mentorship-programs",
-              "services/subscription-plans",
-              "services/corporate-solutions",
-              "services/one-time-sessions"
+              "services/mentorship-programs",              
+              "services/trainings"            
             ]
           }
         ]
