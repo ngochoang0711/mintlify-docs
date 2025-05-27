@@ -136,8 +136,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Go to App",
-      "href": "https://app.businessanalysis.io"
+      "label": "Sample C.O.D.E. Application",
+      "href": "https://code-agile-compass.lovable.app/"
     }
   },
   "footer": {
